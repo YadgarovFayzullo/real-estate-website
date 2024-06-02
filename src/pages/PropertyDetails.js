@@ -102,7 +102,7 @@ const PropertyDetails = () => {
                 defaultValue="Hello, I am interested in [Modern apartment]"
               ></textarea>
               <div className="flex gap-x-2">
-                <button className="bg-violet-700 hover:bg-violet-700 hover:bg-violet-800 text-white rounded p-4 text-sm w-full transition">Send message</button>
+                <button className="bg-violet-700 hover:bg-violet-800 text-white rounded p-4 text-sm w-full transition">Send message</button>
                 <button className="border border-violet-700 hover:border-violet-500 rounded p-4 text-sm w-full transition">Call</button>
               </div>
             </form>
